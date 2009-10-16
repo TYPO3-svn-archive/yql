@@ -1,4 +1,4 @@
-# This example lists the latest items of some
+# This example lists the 20 latest items of some
 # German Blogs, filered if the posts are related
 # to TYPO3.
 
